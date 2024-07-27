@@ -38,11 +38,11 @@
 
 ###
 
-<h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
+<h3 align="center">🛠️ Ferramentas e Tecnologias</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -56,11 +56,11 @@
 
 ###
 
-<h3 align="left">🌱 Tecnologias a Explorar</h3>
+<h3 align="center">🌱 Tecnologias a Explorar</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
