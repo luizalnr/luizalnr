@@ -1,16 +1,50 @@
-\<h3 align="left">Olá! Eu sou a Luiza 👋</h3>
+<h3 align="left">💻 Sobre Mim</h3>
 
 ###
 
-<p align="left">Estou começando minha jornada na programação com foco em desenvolvimento front-end. Aqui estão alguns detalhes sobre mim:<br>🔭 | Atualmente estou trabalhando em projetos pessoais para melhorar minhas habilidades em desenvolvimento web.<br>🌱 | Estou aprendendo HTML, CSS e JavaScript, e explorando frameworks como Vue para criar interfaces dinâmicas.<br>👯 | Estou buscando colaborar em projetos de código aberto para ganhar mais experiência e contribuir para a comunidade.<br>⚡ | No meu tempo livre, gosto de jogar cozy games, fazer brownies ou passar tempo com meus gatos.<br>👫 | Estou aberta a fazer novas amizades!</p>
+<p align="left">Designer e desenvolvedora front-end em início de carreira, com um forte foco em criar interfaces web eficientes e atraentes. Planejo expandir meu conhecimento para o desenvolvimento back-end.</p>
 
 ###
 
-<h4 align="left">Tech Skills:</h4>
+<h4 align="left">🚀 Atividades Recentes</h4>
+
+###
+
+<p align="left">• Atualmente lendo o livro "Entendendo Algoritmos".<br>• Desenvolvendo projetos pessoais focados em JavaScript.<br>• Experimentando frameworks, especialmente o Vue.js.</p>
+
+###
+
+<h4 align="left">🎓 Próximos Passos</h4>
+
+###
+
+<p align="left">• Me aperfeiçoar mais em JavaScript, Vue.js e explorar novas bibliotecas.<br>• Começar estudo de back-end, primeira linguagem será Python.<br>• Melhorar práticas de design UI/UX.</p>
+
+###
+
+<h4 align="left">🤝 Objetivos</h4>
+
+###
+
+<p align="left">• Contribuir para projetos open-source.<br>• Criar novas amizades e contatos da bolha tech.</p>
+
+###
+
+<h4 align="left">🎉 Interesses Pessoais</h4>
+
+###
+
+<p align="left">• Jogos aconchegantes.<br>• Tempo com meus gatos.<br>• Confeitaria.</p>
+
+###
+
+<h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -22,7 +56,7 @@
 
 ###
 
-<h4 align="left">Futuras Tech Skills:</h4>
+<h3 align="left">🌱 Tecnologias a Explorar</h3>
 
 ###
 
@@ -31,19 +65,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luizalnr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
