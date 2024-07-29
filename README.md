@@ -5,7 +5,7 @@
 <p align="left">Designer e desenvolvedora front-end em início de carreira, com um forte foco em criar interfaces web eficientes e atraentes. Planejo expandir meu conhecimento para o desenvolvimento back-end.</p>
 
 ###
-
+a
 <h4 align="left">🚀 Atividades Recentes</h4>
 
 ###
