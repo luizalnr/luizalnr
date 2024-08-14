@@ -1,7 +1,7 @@
 <h3 align="left">💻 Sobre Mim</h3>
     
 ###
-
+ 
 <p align="left">Designer e desenvolvedora front-end em início de carreira, com um forte foco em criar interfaces web eficientes e atraentes. Planejo expandir meu conhecimento para o desenvolvimento back-end.</p>
 
 ###
