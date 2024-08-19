@@ -1,24 +1,24 @@
-<h3 align="left">💻 Sobre Mim</h3>
-    
-###
- 
-<p align="left">Designer e desenvolvedora front-end em início de carreira, com um forte foco em criar interfaces web eficientes e atraentes. Planejo expandir meu conhecimento para o desenvolvimento back-end.</p>
+<h3 align="left">💻Desenvolvedora Backend em Formação</h3>
 
 ###
 
-<h4 align="left">🚀 Atividades Recentes</h4>
+<p align="left">Bem-vindo ao meu perfil! Me chamo Luiza, e estou em constante aprendizado para me tornar uma Desenvolvedora Backend.</p>
 
 ###
 
-<p align="left">• Atualmente lendo o livro "Entendendo Algoritmos".<br>• Desenvolvendo projetos pessoais focados em JavaScript.<br>• Experimentando frameworks, especialmente o Vue.js.</p>
+<h4 align="left">🚀 Estudos Atuais:</h4>
 
 ###
 
-<h4 align="left">🎓 Próximos Passos</h4>
+<p align="left">- Java: Focado em desenvolvimento backend<br>- Banco de Dados SQL: Projetos e consultas</p>
 
 ###
 
-<p align="left">• Me aperfeiçoar mais em JavaScript, Vue.js e explorar novas bibliotecas.<br>• Começar estudo de back-end, primeira linguagem será Python.<br>• Melhorar práticas de design UI/UX.</p>
+<h4 align="left">🔧 Outras Habilidades:</h4>
+
+###
+
+<p align="left">- JavaScript: Desenvolvimento de front-end<br>- Vue: Framework para interfaces dinâmicas</p>
 
 ###
 
@@ -30,42 +30,26 @@
 
 ###
 
+<h4 align="left">🎉 Interesses Pessoais</h4>
+
+###
+
+<p align="left">• Jogos aconchegantes.<br>• Tempo com meus gatos.<br>• Confeitaria.</p>
+
+###
+
 <h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">🌱 Tecnologias a Explorar</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
