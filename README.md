@@ -13,6 +13,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luizalnr/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/luiza.lnr/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/caffeinejava)
+[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/luizalnr)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
 
